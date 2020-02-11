@@ -1,4 +1,4 @@
-package dayoon_lee_exercise3;
+package sortList;
 import java.util.Collections;
 import java.util.List;
 import java.util.ArrayList;
